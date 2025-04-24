@@ -1,3 +1,3 @@
 # p1
 
-A new Flutter project.
+A Flutter project for ios app.
