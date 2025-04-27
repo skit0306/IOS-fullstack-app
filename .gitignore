@@ -49,3 +49,4 @@ api_key.dart
 google_cloud_credential.json
 google_cloud_credentials.json
 firebase_options.dart
+GoogleService-Info.plist
